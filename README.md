@@ -4,7 +4,7 @@ Embark on an escape adventure with "Try to Escape" — a challenging game where 
 
 ## Play the Game
 
-[Play Now](https://aryan0-1maurya.github.io/Try-to-escape/) 🕹️
+[Play Now]( https://aryan0-1maurya.github.io/Try-to-escape-/) 🕹️
 
 ## About the Game
 
